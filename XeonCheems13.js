@@ -1,10 +1,10 @@
-//base by DGXeon
+//base by [ !! < 𝐌ʀ.x-𝐀ᴅɪᴛʏᴀ > !! ]
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
+//YouTube: @Aditya Editx
+//Instagram: i_aam_adi07
+//Telegram: t.me/7318812338
+//GitHub: @dibyenduaditya
+//WhatsApp: +918653805156
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 require('./lib/listmenu')
 const {
