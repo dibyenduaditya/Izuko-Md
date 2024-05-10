@@ -1,18 +1,18 @@
 {
-    "name": "Cheems-Bot-MD",
+    "name": "𝐈ᴢᴜᴋᴏ 𝐁ᴏᴛ 𝐌ᴅ",
     "version": "13.0.0",
-    "description": "Whatsapp Bot By DGXeon",
+    "description": "Whatsapp Bot By 𝐌ʀ.x-𝐀ᴅɪᴛʏᴀ",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
         "lib": "lib",
         "src": "src",
-        "media": "XeonMedia"
+        "media": "AdityaMedia"
     },
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "[ !! < 𝐌ʀ.x-𝐀ᴅɪᴛʏᴀ > !! ]",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.2",
