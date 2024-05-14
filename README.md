@@ -1,6 +1,6 @@
  
 
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩11ꫂ<br></h1>
+<h1 align="center">ꪶ𝐈ᴢᴜᴋᴏ 𝐁ᴏᴛ 𝐌ᴅꫂ<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/RC7JWDj/e258b5ae2b1cf8195d33743570dbe498.jpg" />
 </p>
@@ -58,7 +58,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 - FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD11/fork)
 
 ## `Generate Pair Code For Session`
-[![Xeon](https://img.shields.io/badge/Xeon-Pair%20Code%20Generator-Pink?labelColor=Green&style=plastic&logo=Heroku&logoColor=White)](https://xeon-pair-code-2ec7a562198d.herokuapp.com/)
+[![Xeon](https://replit.com/@DGXeon/Xeon-PairCode?v=1)
 
 ## ` BUILDPACKS`
 
